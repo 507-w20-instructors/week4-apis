@@ -29,3 +29,5 @@ c3po = Character("C3PO (Test)", "Droid")
 
 print(luke.info())
 print(c3po.info())
+
+print(__name__)
